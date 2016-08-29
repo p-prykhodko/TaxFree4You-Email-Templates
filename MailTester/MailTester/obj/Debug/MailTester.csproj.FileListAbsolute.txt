@@ -7,3 +7,6 @@ c:\users\admin\documents\visual studio 2015\Projects\MailTester\MailTester\obj\D
 C:\Work\repos\taxfree4you-Email_Templates\MailTester\MailTester\bin\Debug\MailTester.exe.config
 C:\Work\repos\taxfree4you-Email_Templates\MailTester\MailTester\obj\Debug\MailTester.exe
 C:\Work\repos\taxfree4you-Email_Templates\MailTester\MailTester\obj\Debug\MailTester.pdb
+C:\Work\repos\taxfree4you-Email_Templates\MailTester\MailTester\bin\Debug\MailTester.exe
+C:\Work\repos\taxfree4you-Email_Templates\MailTester\MailTester\bin\Debug\MailTester.pdb
+C:\Work\repos\taxfree4you-Email_Templates\MailTester\MailTester\obj\Debug\MailTester.csprojResolveAssemblyReference.cache
