@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\MailTester\MailTester\bin\Debug\MailTester.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MailTester\MailTester\bin\Debug\MailTester.exe
+c:\users\admin\documents\visual studio 2015\Projects\MailTester\MailTester\bin\Debug\MailTester.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MailTester\MailTester\obj\Debug\MailTester.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MailTester\MailTester\obj\Debug\MailTester.exe
+c:\users\admin\documents\visual studio 2015\Projects\MailTester\MailTester\obj\Debug\MailTester.pdb
