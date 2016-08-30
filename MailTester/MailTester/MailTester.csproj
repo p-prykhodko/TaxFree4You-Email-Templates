@@ -93,6 +93,7 @@
     <Content Include="MailTemplates\images\png\taxfree_vertical_line_small.png" />
     <Content Include="MailTemplates\images\png\tel.png" />
     <Content Include="MailTemplates\images\png\urls_piccy.txt" />
+    <Content Include="MailTemplates\taxfree2.html" />
     <Content Include="MailTemplates\taxfree.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
