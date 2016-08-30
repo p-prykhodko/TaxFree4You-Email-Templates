@@ -48,9 +48,52 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="MailTemplates\images\mail_eng1-1.ai" />
+    <None Include="MailTemplates\images\mail_eng1.pdf" />
+    <None Include="MailTemplates\images\mail_eng2-1.ai" />
+    <None Include="MailTemplates\images\mail_eng2.pdf" />
+    <None Include="MailTemplates\images\mail_new.ai" />
+    <None Include="MailTemplates\images\mail_new.pdf" />
+    <None Include="MailTemplates\images\mail_rus1-1.ai" />
+    <None Include="MailTemplates\images\mail_rus1.pdf" />
+    <None Include="MailTemplates\images\mail_rus2-1.ai" />
+    <None Include="MailTemplates\images\mail_rus2.pdf" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="MailTemplates\" />
+    <Content Include="MailTemplates\bak.txt" />
+    <Content Include="MailTemplates\images\png\7.png" />
+    <Content Include="MailTemplates\images\png\background.png" />
+    <Content Include="MailTemplates\images\png\bak\taxfree_vertical_line.png" />
+    <Content Include="MailTemplates\images\png\infografica_1.png" />
+    <Content Include="MailTemplates\images\png\infografica_en.png" />
+    <Content Include="MailTemplates\images\png\infografica_ru_1.png" />
+    <Content Include="MailTemplates\images\png\logo.png" />
+    <Content Include="MailTemplates\images\png\taxfree_appstore.png" />
+    <Content Include="MailTemplates\images\png\taxfree_background.png" />
+    <Content Include="MailTemplates\images\png\taxfree_circle_1.png" />
+    <Content Include="MailTemplates\images\png\taxfree_circle_2.png" />
+    <Content Include="MailTemplates\images\png\taxfree_circle_3.png" />
+    <Content Include="MailTemplates\images\png\taxfree_circle_4.png" />
+    <Content Include="MailTemplates\images\png\taxfree_circle_5.png" />
+    <Content Include="MailTemplates\images\png\taxfree_google_play.png" />
+    <Content Include="MailTemplates\images\png\taxfree_icon_1.png" />
+    <Content Include="MailTemplates\images\png\taxfree_icon_2.png" />
+    <Content Include="MailTemplates\images\png\taxfree_icon_3.png" />
+    <Content Include="MailTemplates\images\png\taxfree_icon_4.png" />
+    <Content Include="MailTemplates\images\png\taxfree_icon_5.png" />
+    <Content Include="MailTemplates\images\png\taxfree_logo.png" />
+    <Content Include="MailTemplates\images\png\taxfree_map_point.png" />
+    <Content Include="MailTemplates\images\png\taxfree_number_1.png" />
+    <Content Include="MailTemplates\images\png\taxfree_number_2.png" />
+    <Content Include="MailTemplates\images\png\taxfree_number_3.png" />
+    <Content Include="MailTemplates\images\png\taxfree_number_4.png" />
+    <Content Include="MailTemplates\images\png\taxfree_number_5.png" />
+    <Content Include="MailTemplates\images\png\taxfree_vertical_line_big.png" />
+    <Content Include="MailTemplates\images\png\taxfree_vertical_line_small.png" />
+    <Content Include="MailTemplates\images\png\tel.png" />
+    <Content Include="MailTemplates\images\png\urls_piccy.txt" />
+    <Content Include="MailTemplates\taxfree.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

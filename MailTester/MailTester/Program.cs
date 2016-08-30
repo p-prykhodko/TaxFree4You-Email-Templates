@@ -13,8 +13,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
 
-//            var path = @"D:\mail\taxfree.html";
-            var path = @"C:\Work\repos\taxfree4you-Email_Templates\MailTemplates\taxfree.html";
+            var path = @"..\..\MailTemplates\taxfree.html";
 
             var client = new SmtpClient("mailtrap.io", 2525)
             {
