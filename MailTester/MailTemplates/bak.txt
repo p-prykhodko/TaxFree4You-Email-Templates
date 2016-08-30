@@ -1,0 +1,75 @@
+<table cellspacing="0" cellpadding="0" border="0">
+       	<tr>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	 <td><img src="https://devprodlevel.bank4you.uk/FileHandler/MerchantImages/taxfree_circle_1.png" alt="Sign up"></td>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	 <td><span style="font-family: Verdana; font-size:12pt; font-weight: bold">SIGN&nbsp;UP</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">Register&nbsp;in</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">TaxFree4U</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">application</span><br>
+       	 </td>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	</tr>
+       	<tr>
+       	  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	  <td><img src="https://devprodlevel.bank4you.uk/FileHandler/MerchantImages/taxfree_vertical_line_big.png" alt="vertical line"></td>
+       	  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	</tr>
+        <tr>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	 <td><img src="https://devprodlevel.bank4you.uk/FileHandler/MerchantImages/taxfree_circle_2.png" alt="Photo recept"></td>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	 <td><span style="font-family: Verdana; font-size:12pt; font-weight: bold">PHOTO&nbsp;RECEIPT</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">Upload&nbsp;receipt</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">photo&nbsp;to&nbsp;your</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">profile</span><br>
+       	 </td>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	</tr>
+       	<tr>
+       	  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	  <td><img src="https://devprodlevel.bank4you.uk/FileHandler/MerchantImages/taxfree_vertical_line_big.png" alt="vertical line"></td>
+       	  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	</tr>
+       	<tr>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	 <td><img src="https://devprodlevel.bank4you.uk/FileHandler/MerchantImages/taxfree_circle_3.png" alt="Tax free from"></td>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	 <td><span style="font-family: Verdana; font-size:12pt; font-weight: bold">TAX&nbsp;FREE&nbsp;FORM</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">Print&nbsp;tax</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">free&nbsp;form</span><br>
+       	 </td>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	</tr>
+       	<tr>
+       	  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	  <td><img src="https://devprodlevel.bank4you.uk/FileHandler/MerchantImages/taxfree_vertical_line_big.png" alt="vertical line"></td>
+       	  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	</tr>
+        <tr>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	 <td><img src="https://devprodlevel.bank4you.uk/FileHandler/MerchantImages/taxfree_circle_4.png" alt="The export validation"></td>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	 <td><span style="font-family: Verdana; font-size:12pt; font-weight: bold">GET&nbsp;THE&nbsp;EXPORT VALIDATION</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">Get&nbsp;a&nbsp;stamp&nbsp;from</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">customs&nbsp;officer&nbsp;on</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">tax&nbsp;free&nbsp;from</span><br>
+       	 </td>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	</tr>
+       	<tr>
+       	  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	  <td><img src="https://devprodlevel.bank4you.uk/FileHandler/MerchantImages/taxfree_vertical_line_big.png" alt="vertical line"></td>
+       	  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	</tr>
+       	<tr>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	 <td><img src="https://devprodlevel.bank4you.uk/FileHandler/MerchantImages/taxfree_circle_5.png" alt="Your money"></td>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	 <td><span style="font-family: Verdana; font-size:12pt; font-weight: bold">YOUR&nbsp;MONEY</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">Get&nbsp;back&nbsp;VAT</span><br>
+       	     <span style="font-family: Verdana; font-size:11pt; ">from&nbsp;shopping</span><br>
+       	 </td>
+       	 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+       	</tr>
+       </table>
