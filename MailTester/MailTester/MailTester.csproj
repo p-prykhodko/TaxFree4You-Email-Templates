@@ -61,7 +61,6 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="MailTemplates\bak.txt" />
     <Content Include="MailTemplates\images\png\7.png" />
     <Content Include="MailTemplates\images\png\background.png" />
     <Content Include="MailTemplates\images\png\bak\taxfree_vertical_line.png" />
@@ -94,7 +93,7 @@
     <Content Include="MailTemplates\images\png\tel.png" />
     <Content Include="MailTemplates\images\png\urls_piccy.txt" />
     <Content Include="MailTemplates\taxfree2.html" />
-    <Content Include="MailTemplates\taxfree.html" />
+    <Content Include="MailTemplates\taxfree2_ru.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
